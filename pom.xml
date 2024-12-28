@@ -80,6 +80,14 @@
             <artifactId>gherkin</artifactId>
             <version>30.0.4</version>
         </dependency>
+
+        <!-- PhantomJSDriver -->
+        <dependency>
+            <groupId>com.codeborne</groupId>
+            <artifactId>phantomjsdriver</artifactId>
+            <version>1.5.0</version>
+        </dependency>
+
     </dependencies>
 
 </project>
